@@ -1,4 +1,3 @@
-
 class Road:
     _length = 0
     _width = 0

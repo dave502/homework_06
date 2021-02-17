@@ -1,4 +1,3 @@
-
 class Worker:
     name = ''
     surname = ''
